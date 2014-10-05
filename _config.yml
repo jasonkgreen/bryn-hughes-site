@@ -1,0 +1,17 @@
+# Site settings
+title: Bryn Hughes
+email: bryn.hughes@gmail.com
+author: Bryn Hughes
+description: "Musician, professor, nerd. Lover of hockey and pugs."
+baseurl: ""
+url: "/"
+google_analytics:
+animated: true
+show_related_posts: false
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+paginate: 3
+sass:
+  compressed: true
