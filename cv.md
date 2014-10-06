@@ -67,6 +67,7 @@ layout: page
 
 #### Music Theory Southeast ####
 
+- Treasurer, 2014-present
 - Member, 2005-2009, 2013-present
 
 #### Music Theory Society at Florida State University ####
