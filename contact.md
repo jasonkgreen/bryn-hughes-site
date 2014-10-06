@@ -4,6 +4,9 @@ title: Say Hello
 permalink: /contact/
 ---
 
+Feel free to email me using the form below, or follow me on <a href="http://twitter.com/brynmdhughes">twitter</a>.
+
+
 <div class="py2">
   <form action="https://forms.brace.io/{{ site.email }}" method="POST" class="form-stacked form-light">
     <input type="text" name="email" class="input mobile-block" placeholder="Email Address">

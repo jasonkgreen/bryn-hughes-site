@@ -11,9 +11,8 @@ My name is Bryn Hughes, and I teach music theory at the [Frost School of Music](
 
 My research interests include music cognition, music theory pedagogy, and popular music analysis. My dissertation involved an investigation of harmonic expectation in twelve-bar blues progressions.
 
-I have presented my research at numerous regional, national, and international conferences. For more information, please feel free to peruse my <a href="/cv.html">CV</a>.
+I have presented my research at numerous regional, national, and international conferences. For more information, please feel free to peruse my <a href="{{ site.baseurl }}/cv/">CV</a>.
 
-Feel free to <a href="mailto:bryn.hughes@gmail.com">email</a> me, or follow me on <a href="http://twitter.com/brynmdhughes">twitter</a>.
 
 
 
