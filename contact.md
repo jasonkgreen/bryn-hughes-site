@@ -15,4 +15,4 @@ Feel free to email me using the form below, or follow me on <a href="http://twit
   </form>
 </div>
 
-<p><a href="http://jasongreen.net/img/Jason_Green.vcf">My VCard</a></p>
+<p><a href="{{ site.baseurl }}/Jason_Green.vcf">My VCard</a>
