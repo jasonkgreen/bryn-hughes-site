@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+UID:2240502292
+PRODID:-//ownCloud//NONSGML Contacts 0.2.5//EN
+REV:2013-06-22T16:54:12+00:00
+FN:Jason Green
+N:Green;Jason;;;
+URL;TYPE=INTERNET:http://www.jasongreen.net
+IMPP;TYPE=OTHER;X-SERVICE-TYPE=xmpp:xmpp:jason@jasongreen.net
+EMAIL;TYPE=INTERNET:jason@jasongreen.net
+IMPP;TYPE=OTHER;X-SERVICE-TYPE=twitter:twitter:@jasongreen
+END:VCARD
