@@ -23,8 +23,9 @@ layout: page
 
 #### Pulaski Technical College ####
 
-- Directoer of Distance Learning and Instructional Technology Support, 2008--
-- 
+- Director of Distance Learning and Instructional Technology Support, 2008 --
+
+
 #### Dyersburg State Community College ####
 
 - Distance Education Coordinator/Instructional Design Specialist, 2004-2008
