@@ -5,15 +5,18 @@ layout: page
 ---
 
 
-<img class="right" src="https://dl.dropboxusercontent.com/s/jcphzidr44d601i/5480891138_bb60d64ccf_z.jpg?dl=0" height="35%" width="35%">
-
-My name is Bryn Hughes, and I teach music theory at the [Frost School of Music](http://www.miami.edu/frost/index.php/frost) at the [University of Miami](http://www.miami.edu) in Coral Gables, Florida.  
-
-My research interests include music cognition, music theory pedagogy, and popular music analysis. My dissertation involved an investigation of harmonic expectation in twelve-bar blues progressions.
-
-I have presented my research at numerous regional, national, and international conferences. For more information, please feel free to peruse my <a href="{{ site.baseurl }}/cv/">CV</a>.
 
 
 
 
+Welcome to my e-portfolio and digital homestead.  For several reasons, this will be a work in progress:
+
+    * It took me decades to create my scattered digital identity, so I imagine it will take quite some time to corral it into some sort of order.
+   * Relative to other more traditional forms of identity, there’s not a standard as to how to do an e-portfolio/digital presence, so I’ll be figuring out as I go along how this is going to look and cohere, and reserve the right to change my mind and change anything and everything when I feel like it.
+   
+Inspired in part by [Alec Couros](hrrp://couros.ca)‘s warning about fragmenting digital identity, I am going to try to make this a single space, rather than separating a professional portfolio from other pieces of my digital identity.  I’m not at all sure how this will work in practice.  Here you will find:
+
+Pages, sections, and categories as I get around to creating them
+
+ For more information, please feel free to <a href="{{ site.baseurl }}/contact/">contact me</a>.
 
