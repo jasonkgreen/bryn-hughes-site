@@ -635,6 +635,10 @@ img {
 .site-wrap:after {
   content: "";
   display: block; }
+  
+.subhead {
+  font-size: 50%;
+}
 
 .footer, .site-wrap:after {
   height: 100px; }
