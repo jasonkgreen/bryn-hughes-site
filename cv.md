@@ -24,6 +24,7 @@ layout: page
 #### Pulaski Technical College ####
 
 - Director of Distance Learning and Instructional Technology Support, 2008 --
+- Oversaw migration from Blackboard Campus Edition to Blackboard 9.1
 
 
 #### Dyersburg State Community College ####
